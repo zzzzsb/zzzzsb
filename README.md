@@ -1,5 +1,5 @@
 ### Hi I'm Subin Ji 👋
-
+🌱 I’m learning front-end development
 <!--
 **zzzzsb/zzzzsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
