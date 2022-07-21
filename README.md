@@ -1,5 +1,10 @@
 ### Hi I'm Subin Ji 👋
-🌱 I’m learning front-end development
+🌱 I’m currently learning front-end development
+
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+
 <!--
 **zzzzsb/zzzzsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
