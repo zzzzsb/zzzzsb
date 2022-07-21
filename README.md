@@ -1,4 +1,4 @@
-##  Hello, I'm Subin Ji 👋
+##  Hi, I'm Subin Ji 👋
 
 🌱 I’m currently learning front-end development
 
