@@ -1,6 +1,6 @@
 ##  Hi, I'm Subin Ji 👋
 
-🌱 I’m currently learning Web Front-End Development
+🌱 I’m currently learning Web Front-End Development <br>
 🤔 I'm interested in interactive Web & UX engineering
 
 #### 📚 Tech Stacks
